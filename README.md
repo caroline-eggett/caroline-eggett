@@ -4,7 +4,7 @@ I'm Caroline, a current undergraduate at Ohio State majoring in Marketing with m
 
 - 🔭 My current software involvements:
     - Programming analytical, Python-based machine learning for my Predictive Analytics class.  You can check out what we're working on on GitHub at [github.com/caroline-eggett/BUSOBA3332]('https://github.com/caroline-eggett/BUSOBA3332'). This is part of my business analytics minor coursework. 
-    - Statistical analytical, R-based machine learning for my Predictive Analytics class.  You can check out what we're working on GitHub at [github.com/'more to come'']('URL'). This is part of my business analytics minor coursework. 
+    - Statistical analytical, R-based machine learning for my Predictive Analytics class.  You can check out what we're working on GitHub at [github.com/'more to come']('URL'). This is part of my business analytics minor coursework. 
 - ⚡ What I like to do outside of work:
     - Read ([books I have read]('https://www.goodreads.com/caroline_eggett'))
     - Try different coffee roasts (my coffee roast so far is from a St. Croix, US Virgin Islands coffee shop)
