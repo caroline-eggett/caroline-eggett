@@ -1,6 +1,6 @@
 ### Hey! 👋
 
-I'm Caroline, a current undergraduate at Ohio State majoring in Marketing with minors in Business Analytics and Studio Art - check out my resume [here]('URL'). I currently work at Abbott Laboratories, within their internal marketing agency WhiteSpace, as an Associate Marketing Analyst. Get in touch at caroline.eggett@gmail.com - I'm always open to chat and create new connections!
+I'm Caroline, a current undergraduate at Ohio State majoring in Marketing with minors in Business Analytics and Studio Art - check out my resume [here](https://drive.google.com/file/d/1ZPqcL1wUv8iY9xK9vgstVw4viP2Sk1I1/view?usp=sharing). I currently work at Abbott Laboratories, within their internal marketing agency WhiteSpace, as an Associate Marketing Analyst. Get in touch at caroline.eggett@gmail.com - I'm always open to chat and create new connections!
 
 - 🔭 My current software involvements:
     - Programming analytical, Python-based machine learning for my Predictive Analytics class.  You can check out what we're working on on GitHub at [github.com/caroline-eggett/BUSOBA3332](https://github.com/caroline-eggett/BUSOBA3332). This is part of my business analytics minor coursework. 
